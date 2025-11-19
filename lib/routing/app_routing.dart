@@ -1,4 +1,4 @@
-import 'package:dailydo_app/routing/router.dart'; // जहाँ buildRouter है
+import 'package:dailydo_app/routing/router.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import '../themes/app_theme.dart';
